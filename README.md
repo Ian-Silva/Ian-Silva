@@ -6,7 +6,7 @@ Student of System of Informatian | Data Analyst
 
 ### About me
 
-hi, my name is ian, i'm 24 years old, and i live in aracaju, sergipe. 
+hi, my name is ian, i'm 25 years old, and i live in aracaju, sergipe. 
 I'm student of system of information and in my free time i like to read books and play games in my computer, always learn new things about my area and in this moment i'm looking for a new job. 
 In my last job i was a data analysis intern, as part of my role, I worked with data cross-referencing, doing data analysis and creating graphs and visualizations to show insights effectively. The company used Looker Studio, which has a relational database to link information tables.
 
